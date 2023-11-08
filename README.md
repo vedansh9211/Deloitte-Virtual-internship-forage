@@ -1,4 +1,7 @@
 # Deloitte Forage
+![image](https://github.com/vedansh9211/Deloitte-Virtual-internship-forage/assets/94522851/885a3c37-90e5-45e4-a31b-9d8a17cf6049)
+![image](https://github.com/vedansh9211/Deloitte-Virtual-internship-forage/assets/94522851/917d47ae-528a-478e-bd80-215072452176)
+
 
 This repository contains my submission for the Deloitte STEM Virtual Program. In this program, students are asked to help Daikibo Industrials (a global leader in manufacturing of heavy machinery) with a variety of problems that they are facing.
 
